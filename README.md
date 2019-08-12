@@ -6,8 +6,8 @@ File Upload Download Script Php Code
 
 **[Site Demo](https://upload.bahadirduzcan.me/)**
 
-![Ana Sayfa](https://i.hizliresim.com/VQr4nj.png)  |  ![Dosyaları Listeleme](https://i.hizliresim.com/nbO16B.png)
-![Yüklenen Dosya](https://i.hizliresim.com/vajM2r.png)  |  ![Dosyaları Listeleme](https://i.hizliresim.com/1pJzW5.png)
+![Ana Sayfa](https://i.imgur.com/jWYSxxB.png)  |  ![Dosyaları Listeleme](https://i.imgur.com/qIl7DLG.png)
+![Yüklenen Dosya](https://i.imgur.com/a991aCE.png)  |  ![Dosyaları Listeleme](https://i.imgur.com/5SpjRQA.png)
 
 ## Kurulum - Installation
 Dosyaları ftp ile sitenize attıktan sonra çalışır. Veritabansız basit sistemdir. - It works after you've posted files to your site via ftp. Simple system without database.
